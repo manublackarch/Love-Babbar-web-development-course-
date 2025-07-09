@@ -14,7 +14,7 @@
     - it shows summary of changes per commit
     - number of insertions (+) or deletions (-) made in file
     - basically used to get ***a overview of what each commit touched***
-- `git show`
+- `git show commitid`
     - it shows the full details of a single commit
     - every detail of a single commit that includes metadata (author name, date, message)
     - file changes made (diff), code modifications (patch)
