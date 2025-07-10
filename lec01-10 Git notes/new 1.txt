@@ -1,0 +1,25 @@
+Git 22a6aee5b2978022bd0fcf71091f0487
+git
+
+
+Branching, Tagging, Merging, Stash 22b6aee5b2978097bd10f812445d3e19
+Branching,Tagging,Merging,Stash
+
+
+Creating a Git repo 22a6aee5b2978067b631dfa3a6f8a3a9
+Creating a Git repo
+
+
+Lets make a commit 22a6aee5b29780308bcde2a642943ad5
+
+
+
+Lifecycle of a change in repo 22a6aee5b29780e8ad7ce1b77b8a0ce1
+
+
+
+
+Review a repo history 22a6aee5b29780db9221f0e67c639dbf
+
+
+Undo commits 22b6aee5b2978099abdac27e172a23b6

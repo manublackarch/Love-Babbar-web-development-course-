@@ -21,17 +21,17 @@
 - to check our git settings like our entered username and email : `git config --list`
 - use of `--global` means its applied to all our git projects, we just need to set it once
 
-[Creating a Git repo](Git%2022a6aee5b2978022bd0fcf71091f0487/Creating%20a%20Git%20repo%2022a6aee5b2978067b631dfa3a6f8a3a9.md)
+[Creating a Git repo](Git_notes.md/Creating_a_Git_repo.md)
 
-[Lifecycle of a change in repo](Git%2022a6aee5b2978022bd0fcf71091f0487/Lifecycle%20of%20a%20change%20in%20repo%2022a6aee5b29780e8ad7ce1b77b8a0ce1.md)
+[Lifecycle of a change in repo](Git_notes.md/Lifecycle_of_Change_in_repo.md)
 
-[Review a repo history](Git%2022a6aee5b2978022bd0fcf71091f0487/Review%20a%20repo%20history%2022a6aee5b29780db9221f0e67c639dbf.md)
+[Review a repo history](Git_notes.md/Review_a_repo_history.md)
 
-[Lets make a commit ](Git%2022a6aee5b2978022bd0fcf71091f0487/Lets%20make%20a%20commit%2022a6aee5b29780308bcde2a642943ad5.md)
+[Lets make a commit ](Git_notes.md/Lets_make_a_commit.md)
 
-[Branching, Tagging, Merging, Stash](Git%2022a6aee5b2978022bd0fcf71091f0487/Branching,%20Tagging,%20Merging,%20Stash%2022b6aee5b2978097bd10f812445d3e19.md)
+[Branching, Tagging, Merging, Stash](Git_notes.md/Branching,Merging,Taging,Stashing.md)
 
-[Undo commits](Git%2022a6aee5b2978022bd0fcf71091f0487/Undo%20commits%2022b6aee5b2978099abdac27e172a23b6.md)
+[Undo commits](Git_notes.md/Undo_commits.md)
 
 ## in the end:
 
