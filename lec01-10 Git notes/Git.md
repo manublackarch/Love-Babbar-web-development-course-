@@ -2,7 +2,7 @@
 
 ## Git vs Github
 
-**Github**
+- **Github**
     - its a ***cloud-based hosting platform for Git repositories***
     - with this we can collaborate with others, manage projects, and even contribute to open source projects
     - it lets us upload our git tracked code online
